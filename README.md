@@ -4,7 +4,7 @@ The program was written by Steve Gathercole and originally published in the Dece
 
 | File | Description |
 | --- | --- |
-| build.bat |  A windows batch file to assemble and run the program file.<br> 1.  Set the path to asm6809 and XROAR (change as required) <br>  2.  Assemble the code file using asm6809 <br> 3.  Run the resulting Cupid.bin file in XROAR |
+| build.bat |  A windows batch file to assemble and run the program file.<br> 1.  Set the path to asm6809 and XROAR (change as required) <br>  2.  Assemble the code file using asm6809 <br> 3.  Run the resulting Torpedo.bin file in XROAR |
 | Torpdeo.asm | The assembly code file |
 | Torpedo.cas | The assembled game file. |
 
